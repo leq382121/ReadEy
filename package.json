@@ -1,0 +1,23 @@
+{
+  "name": "readey",
+  "version": "1.0.0",
+  "description": "ocr",
+  "main": "start.js",
+  "dependencies": {
+    "ocrad.js": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leq382121/ReadEy.git"
+  },
+  "author": "Liutauras Razma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leq382121/ReadEy/issues"
+  },
+  "homepage": "https://github.com/leq382121/ReadEy#readme"
+}
