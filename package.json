@@ -4,7 +4,7 @@
   "description": "ocr",
   "main": "start.js",
   "dependencies": {
-    "ocrad.js": "0.0.1"
+    "tesseract": "git+https://github.com/naptha/tesseract.js.git#master"
   },
   "devDependencies": {},
   "scripts": {
